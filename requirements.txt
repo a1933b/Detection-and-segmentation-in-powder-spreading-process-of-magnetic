@@ -1,0 +1,6 @@
+yolov5
+pyqt5                     5.15.1                   pypi_0    pypi
+python                    3.7.15               h6244533_1
+torch                     1.12.1+cu113             pypi_0    pypi
+torchaudio                0.12.1+cu113             pypi_0    pypi
+torchvision               0.13.1+cu113             pypi_0    pypi

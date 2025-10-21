@@ -1,0 +1,6 @@
+path: C:\mydata # dataset root dir
+train: images\train  # train images (relative to 'path') 128 images
+val: images\val
+nc: 3
+
+names: ['powder_uncover','powder_uneven','scratch']
